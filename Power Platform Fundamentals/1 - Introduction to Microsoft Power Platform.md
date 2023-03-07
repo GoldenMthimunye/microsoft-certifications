@@ -53,7 +53,7 @@ These impacts include;
   collaborating through social media. To best apply their abilities, organizations need to be able to deliver more custom,
   to deliver more custom, streamlined, and collaborative digital experiences.
   
-- __Increased costs fr=or custom application development :__ Building custom applications and maintaining them is time consuming and expensive.
+- __Increased costs for custom application development :__ Building custom applications and maintaining them is time consuming and expensive.
 
 - __Need to become more agile :__ Historically, solutions can take months to build and roll out. Once deployed, it can take two weeks to
   implement every minor change. We no longer have that luxury. Business strategies and needs change rapidly, so organizations
